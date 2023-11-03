@@ -2,7 +2,8 @@
 ## Documentation
 * c'est quoi couplage fort et couplage faible ?
 * c'est quoi la différence entre un couplage fort et un couplage faible ?
-* ...
+* c'est quoi AOP ?
+* 
 ## Technologies Used
 pour untiliser le projet il faut d'abord installer les outils suivants:
 
